@@ -1,0 +1,11 @@
+p.important {
+  font-variant: normal;
+  font: italic;
+  color: blue;
+}
+p.size {
+  width: 50%;
+  font-style: italic;
+  font-family: fantasy;
+
+}
